@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow
+  - Enemy
+  - Green
+  - Red
+  - Yellow
+  - Fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Archer
+  - Water
+  - UI
+  - Bow
+  - Enemy
+  - Collectible
+  - Fireball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
